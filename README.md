@@ -37,40 +37,37 @@ I believe in **learning by building real projects**, strengthening fundamentals,
 👉 *Pinned repositories showcase my real skills.*
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivekkumar1-afk&show_icons=true&theme=tokyonight" />
-</p>
+## 📈 Contribution Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekkumar1-afk&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekkumar1-afk&theme=tokyo-night&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekkumar1-afk&layout=compact&theme=tokyonight" />
-</p>
+----
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vivekkumar1-afk&theme=light&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vivekkumar1-afk&theme=light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekkumar1-afk&theme=light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=vivekkumar1-afk&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=vivekkumar1-afk&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🌐 Socials
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/vivek-kumar-4828a3384">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM">
+  <a href="https://www.instagram.com/uzumaki_naruto8544?igsh=MXpqd2Q5bno0eGh0">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://medium.com/@YOUR_MEDIUM">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium"/>
-  </a>
-  <a href="https://x.com/YOUR_X">
-    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:vivek.kumar1@rungta.org">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
